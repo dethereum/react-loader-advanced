@@ -1,6 +1,6 @@
 {
-  "name": "react-loader-advanced",
-  "version": "1.7.1",
+  "name": "@dethereum/react-loader-advanced",
+  "version": "2.0.0",
   "description": "Show loader overlaying your component during async events.",
   "main": "./lib/react-loader-advanced.js",
   "types": "./index.d.ts",
@@ -25,12 +25,10 @@
   ],
   "repository": {
     "type": "git",
-    "url": "https://github.com/nygardk/react-loader-advanced"
+    "url": "https://github.com/dethereum/react-loader-advanced"
   },
   "author": {
-    "name": "Klaus Nygård",
-    "email": "klaus.nygard@gmail.com",
-    "url": "http://klausnygard.fi"
+    "name": "Haiturtle"
   },
   "license": "MIT",
   "devDependencies": {
